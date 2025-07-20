@@ -37,7 +37,7 @@ export default function App() {
       <div className="flex-grow-1 bg-light min-vh-100">
         {/* Topbar */}
         <nav className="navbar navbar-light bg-white px-4 shadow-sm mb-4 d-flex justify-content-between align-items-center">
-         <span className="navbar-brand fw-bold text-dark">Analiz</span>
+         <span className="navbar-brand fw-bold text-dark">Zanaliz</span>
 
           {/* Language Selector 👇 intégré ici */}
           <select className="form-select form-select-sm w-auto" value={i18n.language} onChange={changeLanguage}>
