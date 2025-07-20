@@ -1,0 +1,19 @@
+{
+  "coach": "Entraîneur",
+  "stadium": "Stade",
+  "city": "Ville",
+  "player": "Joueur",
+  "salary": "Salaire",
+  "position": "Poste",
+  "age": "Âge",
+  "apps": "Matchs",
+  "club_info": "Fiche du club",
+  "top_salary": "Plus gros salaires",
+  "xg_chart": "xG par match (buts attendus)",
+  "ranking": "Classement de {{team}}",
+  "season": "Saison 2024-2025",
+  "place": "{{rank}}{{suffix}} place",
+  "matchweek": "{{n}}ᵉ journée",
+  "president": "Président"
+
+}

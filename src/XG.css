@@ -1,0 +1,10 @@
+/* src/XGLeagueChart.css */
+
+.xg-chart-container {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 1rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  height: 550px;
+}

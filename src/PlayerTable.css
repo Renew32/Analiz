@@ -1,0 +1,31 @@
+/* Peut être ajouté à player.css ou global.css */
+
+.player-table.noborder {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  color: #001c3d;
+  background-color: white;
+}
+
+.player-table.noborder thead tr {
+  background-color: #f1f5f9;
+  color: #001c3d;
+  font-weight: 600;
+}
+
+.player-table.noborder th,
+.player-table.noborder td {
+  padding: 1rem;
+  border: none;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.player-table.noborder tbody tr:not(:last-child) {
+  border-bottom: 1px solid #f0f0f0; /* fine ligne pour lisibilité */
+}
+
+.player-table.noborder tbody tr:hover {
+  background-color: #f9fafb;
+}

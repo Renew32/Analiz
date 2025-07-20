@@ -1,0 +1,17 @@
+/* card.css */
+.card-container {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease-in-out;
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+  color: #001c3d;
+  border-left: 4px solid #f4e400;
+  padding-left: 0.75rem;
+}

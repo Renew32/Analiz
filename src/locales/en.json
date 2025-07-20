@@ -1,0 +1,18 @@
+{
+  "coach": "Coach",
+  "stadium": "Stadium",
+  "city": "City",
+  "player": "Player",
+  "salary": "Salary",
+  "position": "Position",
+  "age": "Age",
+  "apps": "Apps",
+  "club_info": "Club Info",
+  "top_salary": "Top Salaries",
+  "xg_chart": "xG per match (Expected Goals)",
+  "ranking": "Ranking of {{team}}",
+  "season": "Season 2024-2025",
+  "place": "{{rank}}{{suffix}} place",
+  "matchweek": "Matchweek {{n}}",
+  "president": "President"
+}
